@@ -6,10 +6,10 @@ For more details about the algorithms, strategy-proof mechanisms, specifications
 
 ## Installation  
 
-You can install the **_msfl_ta_** from [PyPI](https://pypi.org/project/realpython-reader/):  
+You can install the **_msflta_** from [PyPI](https://pypi.org/project/realpython-reader/):  
 
 ```python
-python -m pip install msfl_ta
+python -m pip install msflta
 ```
 
 The package requires a Python 3.7 and above and a Numpy 1.21.5 and above.
