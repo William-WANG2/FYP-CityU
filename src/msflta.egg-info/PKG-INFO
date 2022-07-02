@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: msflta
-Version: 1.0.0
+Version: 1.0.1
 Summary: This is the python package implementing several algorithms and strategy-proof mechanisms introduced in the paper Multi-stage Facility Location Problem with Transient Agents
 Author-email: Xuezhen Wang <xuezhenwang2@gmail.com>
 License: The MIT License (MIT)
@@ -29,10 +29,10 @@ For more details about the algorithms, strategy-proof mechanisms, specifications
 
 ## Installation  
 
-You can install the **_msfl_ta_** from [PyPI](https://pypi.org/project/realpython-reader/):  
+You can install the **_msflta_** from [PyPI](https://pypi.org/project/realpython-reader/):  
 
 ```python
-python -m pip install msfl_ta
+python -m pip install msflta
 ```
 
 The package requires a Python 3.7 and above and a Numpy 1.21.5 and above.
