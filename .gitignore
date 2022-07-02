@@ -1,0 +1,11 @@
+# ignore all pycache
+
+*.pyc
+
+# ignore all .DS_Store
+
+.DS_Store
+
+# ignore tested compiled information
+
+**/msflta.egg-info
