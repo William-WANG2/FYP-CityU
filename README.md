@@ -2,8 +2,6 @@
 
 The **_msfl_ta_** is a package implementing several optimal algorithms and strategy-proof mechanisms introduced in the paper **_Multi-stage Facility Location Problem with Transient Agent_**. 
 
-For more details about the algorithms, strategy-proof mechanisms, specifications on the concepts and terminologies in game theory community, you may later refer to the full paper to be published on [**AAAI 23**](https://aaai.org/Conferences/AAAI-23/) or the final year project report. 
-
 ## Installation  
 
 You can install the **_msflta_** from [PyPI](https://pypi.org/project/realpython-reader/):  

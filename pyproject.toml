@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "msflta"
-version = "1.0.1"
+version = "1.0.2"
 description = "This is the python package implementing several algorithms and strategy-proof mechanisms introduced in the paper Multi-stage Facility Location Problem with Transient Agents"
 readme = "README.md"
 authors = [{ name = "Xuezhen Wang", email = "xuezhenwang2@gmail.com" }]
